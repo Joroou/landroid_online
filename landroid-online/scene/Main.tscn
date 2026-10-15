@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://f1rkjgf7e4me"]
+
+[ext_resource type="PackedScene" uid="uid://dqjj6g3vw5iu2" path="res://scene/ship_(character_body_2d).tscn" id="1_nbc6x"]
+
+[node name="Main" type="Node2D" unique_id=1720756168]
+
+[node name="Ship (CharacterBody2D)" parent="." unique_id=491824891 instance=ExtResource("1_nbc6x")]

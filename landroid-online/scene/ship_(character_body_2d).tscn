@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://dqjj6g3vw5iu2"]
+
+[node name="Ship (CharacterBody2D)" type="CharacterBody2D" unique_id=491824891]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="." unique_id=225393463]
+scale = Vector2(1.0039077, 1.0359958)
+polygon = PackedVector2Array(-10, -10, -10, 10, 10, 0)
